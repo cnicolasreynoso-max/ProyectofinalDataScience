@@ -40,8 +40,8 @@ El proyecto fue desarrollado en **Python** utilizando las siguientes librerías:
 
 Tras entrenar el modelo, se obtuvieron los siguientes resultados:
 
-* **Accuracy (Exactitud):** ~33.5%
-* **Análisis:** Dado que el problema cuenta con 3 clases balanceadas, una exactitud del 33% indica que el modelo está actuando de manera aleatoria (azar).
+* **Accuracy (Exactitud):** ~34%
+* **Análisis:** Dado que el problema cuenta con 3 clases balanceadas, una exactitud del 34% indica que el modelo está actuando de manera aleatoria (azar).
 
 **Conclusión Final:**
 El análisis exploratorio y los resultados del modelo de Machine Learning sugieren fuertemente que el dataset utilizado es **sintético** o carece de patrones biológicos reales. No existe una correlación estadística observable entre la ingesta de macronutrientes/hábitos reportados y el objetivo nutricional en esta base de datos específica.
