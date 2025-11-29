@@ -6,7 +6,7 @@ Este repositorio contiene el trabajo final del curso de Data Science. El objetiv
 El proyecto se divide en varias etapas de análisis de datos, desde la limpieza inicial hasta la implementación de modelos predictivos. Se buscó responder a la pregunta: **¿Es posible determinar el objetivo nutricional de un paciente basándonos en sus datos demográficos y hábitos alimenticios?**
 
 ### Estructura del Repositorio
-* `ProyectoParteIII_Reynoso.ipynb`: Notebook principal con el código de entrenamiento, validación y conclusiones.
+* `ProyectoFinalDSREYNOSO.ipynb`: Notebook principal con el código de entrenamiento, validación y conclusiones.
 * `df_datos_medicos_nutricionales.xlsx`: Dataset utilizado (Base de datos).
 * `README.md`: Este archivo.
 
@@ -47,16 +47,4 @@ Tras entrenar el modelo, se obtuvieron los siguientes resultados:
 El análisis exploratorio y los resultados del modelo de Machine Learning sugieren fuertemente que el dataset utilizado es **sintético** o carece de patrones biológicos reales. No existe una correlación estadística observable entre la ingesta de macronutrientes/hábitos reportados y el objetivo nutricional en esta base de datos específica.
 
 ---
-*Proyecto realizado por [Tu Nombre] - 2024*
-Cómo agregar esto a tu GitHub:
-Ve a la página principal de tu repositorio en GitHub.
-
-Haz clic en el botón "Add file" (Agregar archivo) -> "Create new file" (Crear nuevo archivo).
-
-En el nombre del archivo escribe: README.md (tal cual, en mayúsculas).
-
-Pega el contenido que te puse arriba en el cuadro de texto grande.
-
-(Opcional) Donde dice [Tu Nombre], pon tu nombre real.
-
-Haz clic en el botón verde "Commit changes..." abajo del todo.
+*Proyecto realizado por Christian Reynoso - 2025*
